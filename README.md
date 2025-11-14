@@ -1,4 +1,4 @@
-# Hi there 👋
+# Welcome to my Github profile 👋
 
 <div align="center">
   <img height="300" width="700" alt="GIF" align="center" src="assets/header.gif">
@@ -8,7 +8,7 @@
 
 # About Me 💬
 
-<img height="400" width="500" alt="GIF" align="right" src="[YOUR-BIO-GIF-HERE]">
+<img height="400" width="500" alt="GIF" align="right" src="assets/bio.gif">
 
 - 🚀 I'm a student from Hyderabad, India, with a passion for **Data Science**, **Machine Learning**, and **Web Development**.
 - 💡 I'm also exploring other tech frontiers like **Cybersecurity** and **Blockchain**.
@@ -65,22 +65,5 @@ Here's the hardware I use for development, gaming, and ricing:
   <a href="https://www.instagram.com/invictus596">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="httpsm://www.reddit.com/user/invictus596">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
-  </a>
-</p>
-
-<br><br>
-
-# My GitHub Stats 📈
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=invictus596&show_icons=true&theme=radical" alt="invictus596's GitHub Stats">
-  </a>
-</p>
-<p align="center">
-  <a href="httpsimg://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=invictus596&layout=compact&theme=radical" alt="invictus596's Top Languages">
-  </a>
-</p>
+  <a href="https://www.reddit.com/user/invictus596">
+    <img src="
