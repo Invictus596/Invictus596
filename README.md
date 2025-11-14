@@ -23,11 +23,11 @@
 
 <br>
 
-###  hobbies:
+###  Hobbies:
 - 💻 **Linux Ricing**: Customizing Arch Linux + Hyprland setups.
 - 🎮 **Gaming**: Always up for a new challenge or immersive story.
 - 📚 **Reading Manga**: Exploring new worlds one panel at a time.
--  tinkering: **Modding** Android phones with custom ROMs and testing different OSes in VMs.
+-  Tinkering: **Modding** Android phones with custom ROMs and testing different OSes in VMs.
 
 <br><br>
 
