@@ -49,10 +49,10 @@
 
 Here's the hardware I use for development, gaming, and ricing:
 
-- **Laptop:** Lenovo LOQ (IAX9)
-  - **CPU:** Intel Core i5-12450HX
-  - **GPU:** NVIDIA RTX 3050 6GB
-- **Phone:** Samsung Galaxy S24+
+- **Laptop:** Lenovo LOQ (IAX9) <img src="https://img.shields.io/badge/-Lenovo-E2231A?style=flat-square&logo=lenovo&logoColor=white" alt="Lenovo" height="20">
+  - **CPU:** Intel Core i5-12450HX <img src="https://img.shields.io/badge/-Intel-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel" height="20">
+  - **GPU:** NVIDIA RTX 3050 6GB <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA" height="20">
+- **Phone:** Samsung Galaxy S24+ <img src="https://img.shields.io/badge/-Samsung-1428A0?style=flat-square&logo=samsung&logoColor=white" alt="Samsung" height="20">
 
 <br><br>
 
@@ -66,4 +66,21 @@ Here's the hardware I use for development, gaming, and ricing:
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.reddit.com/user/invictus596">
-    <img src="
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+  </a>
+</p>
+
+<br><br>
+
+# My GitHub Stats 📈
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=invictus596&show_icons=true&theme=radical" alt="invictus596's GitHub Stats">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=invictus596&layout=compact&theme=radical" alt="invictus596's Top Languages">
+  </a>
+</p>
