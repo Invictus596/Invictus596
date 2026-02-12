@@ -71,15 +71,8 @@ Here's the hardware I use for development, gaming, and ricing:
 
 <br><br>
 
-# My GitHub Stats 📈
-
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=invictus596&show_icons=true&theme=radical" alt="invictus596's GitHub Stats">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=invictus596&layout=compact&theme=radical" alt="invictus596's Top Languages">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=CS+Undergrad+%40+OU;Data+Science+Enthusiast;Blockchain+Developer+(Starknet);Linux+Ricer+(Arch%2FHyprland)&font=Fira+Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
   </a>
 </p>
