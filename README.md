@@ -54,25 +54,15 @@ Here's the hardware I use for development, gaming, and ricing:
 
 # Connect With Me 🤝
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/invictus596">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abdulkhader.dev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/invictus596">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-  <a href="https://www.reddit.com/user/invictus596">
-    <img src="https://skillicons.dev/icons?i=reddit" alt="Reddit" />
-  </a>
-</p>
+- <img src="https://skillicons.dev/icons?i=linkedin" width="24" align="absmiddle" /> &nbsp;[LinkedIn](https://www.linkedin.com/in/invictus596)
+- <img src="https://skillicons.dev/icons?i=gmail" width="24" align="absmiddle" /> &nbsp;[Email](mailto:abdulkhader.dev@gmail.com)
+- <img src="https://skillicons.dev/icons?i=instagram" width="24" align="absmiddle" /> &nbsp;[Instagram](https://www.instagram.com/invictus596)
+- <img src="https://cdn.simpleicons.org/reddit/FF4500" width="24" align="absmiddle" /> &nbsp;[Reddit](https://www.reddit.com/user/invictus596)
 
 <br><br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=CS+Undergrad+%40+OU;Data+Science+Enthusiast;Blockchain+Developer+(Starknet);Linux+Ricer+(Arch%2FHyprland)&font=Fira+Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=CS+Undergrad+%40+OU;Data+Science+Enthusiast;Blockchain+Developer+(Starknet);Linux+Ricer+(Arch%2FHyprland)&font=JetBrains+Mono&center=true&width=500&height=50&color=3399FF&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
   </a>
 </p>
