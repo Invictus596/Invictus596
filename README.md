@@ -10,7 +10,7 @@
 
 <img height="400" width="500" alt="GIF" align="right" src="assets/bio.gif">
 
-- 🚀 I'm a student from Hyderabad, India, with a passion for **Data Science**, **Machine Learning**, and **Web Development**.
+- 🚀 I'm a student from Hyderabad, India, with a passion for **Data Science**, **Machine Learning**,**Game Development**, and **Web Development**.
 - 💡 I'm also exploring other tech frontiers like **Cybersecurity** and **Blockchain**.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/invictus596) or check out my other profiles below.
 
