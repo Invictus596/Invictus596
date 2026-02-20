@@ -63,6 +63,6 @@ Here's the hardware I use for development, gaming, and ricing:
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=CS+Undergrad+%40+OU;Data+Science+Enthusiast;Blockchain+Developer+(Starknet);Linux+Ricer+(Arch%2FHyprland)&font=JetBrains+Mono&center=true&width=500&height=50&color=3399FF&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=CS+Undergrad+%40+OU;Data+Science+Enthusiast;Blockchain+Developer+(Starknet);Game+Development+Enthusiast&font=JetBrains+Mono&center=true&width=500&height=50&color=3399FF&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
   </a>
 </p>
