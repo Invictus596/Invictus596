@@ -20,6 +20,11 @@
 - ✨ **SQL** and database management.
 - ✨ Advanced Python for data science (Pandas, NumPy, Matplotlib, Scikit-learn).
 - ✨ Modern web development frameworks.
+<br>
+
+### 🛠️ I'm Currently Working on:
+- ✨ **Rift** an L1 to L2 blockchain technology that minimizes latency on bbitcoin to starknet txns
+- ✨ **Obsidian Anti-Cheat Engine** a cheat engine that utilizes zero knowledge technology on blockchain
 
 <br>
 
