@@ -25,6 +25,9 @@
 ### 🛠️ I'm Currently Working on:
 - ✨ **Rift** an L1 to L2 blockchain technology that minimizes latency on bbitcoin to starknet txns
 - ✨ **Obsidian Anti-Cheat Engine** a cheat engine that utilizes zero knowledge technology on blockchain
+- ✨ **[LAN-TUI](https://github.com/Invictus596/LAN-TUI)** — A terminal UI for local network exploration and management.
+- ✨ **[kbrd](https://github.com/Invictus596/kbrd)** — A customizable keyboard configurator/setup tool.
+- ✨ **[Kindle Dashboard](https://github.com/Invictus596/Kindle-Dashboard)** — Tinkered with the Kindle to build a custom dashboard interface.
 
 <br>
 
