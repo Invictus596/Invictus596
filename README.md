@@ -74,7 +74,6 @@
 | **Obsidian Anti-Cheat Engine (ZK-Sniper)** | Math-based, non-invasive Web3 game state verification engine on Starknet. *🥈 2nd Place — HackPrix BuildWith Hackathon* |
 | **Rift: Bitcoin L2 Execution** | Trustless execution layer on Starknet using Cairo & ZK-proofs to verify the Bitcoin mempool in real-time. *Re{define} Hackathon* |
 | **IJMEC Publication** | Co-authored *"Fake Face Detection Based On Videos Using OpenCV And Neural Network Architecture"* — MobileNetV2 for real-time Deepfake detection. |
-| **Vendor Performance Data Analytics** | Capstone data project — SQL, Python (Pandas), Power BI for supply chain insights. |
 | **OPERATOR & Reality Glitch** | Cinematic 3D browser games built with Three.js & React. *2-hour rapid prototype at GDGC Game Night* |
 | **Nexus Map** | B2B SaaS for complex codebase analysis. *Youth Speak 2026 & HACKFORGE 2.0* |
 | **[LAN-TUI](https://github.com/Invictus596/LAN-TUI)** | Terminal UI for local network exploration & management. |
@@ -125,7 +124,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/invictus596"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
   <a href="mailto:abdulkhader.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-7B8DFA?style=for-the-badge&logo=aboutdotme&logoColor=fff" /></a>
+  <a href="https://invictus596-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7B8DFA?style=for-the-badge&logo=aboutdotme&logoColor=fff" /></a>
 </p>
 
 <p align="center">
