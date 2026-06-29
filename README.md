@@ -15,7 +15,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79d-e2f8cef9c39e.gif" width="30" />
 
-> CS Engineering student at **ISLEC** constantly exploring the intersection of deep tech, data, and creative web experiences.
+> CS Engineering student at **OU** constantly exploring the intersection of deep tech, data, and creative web experiences.
 
 - 🔭 Building **trustless systems** on **Starknet** & training **efficient ML models**
 - 🌱 Crafting **immersive 3D browser environments** with Three.js
